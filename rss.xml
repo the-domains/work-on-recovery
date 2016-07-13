@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Work on Recovery]]></title>
+        <description><![CDATA[Work on Recovery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 18:29:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cultivating a workers' paradise]]></title>
+            <description><![CDATA[<article><h1>Cultivating a workers' paradise</h1><p>In 1984 a disillusioned Spanish psychologist named Cristóbal Colón drove his Citroën 2CV through a high-canopied Catalan forest called La Fageda d'en Jordà. Colón had walked through this airy, enchanted forest with his Bouvier des Flandres cattle dogs many times, but now he was on his way to buy a farm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afbe8db292d4a736ebef50b1067a68b0/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F3a09ca68591271d15a4b76f8ad844c5dbd45235c%2F1374_1341_3861_2317%2F3861.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3Da725bef4ad6b764b551188e4a6cf53a8"></article>]]></description>
+            <link>https://www.theguardian.com/society/2016/jul/03/cultivating-a-workers-paradise-la-fageda-mental-illness-spain?utm_medium=twitter&amp;utm_source=twitterfeed</link>
+            <guid isPermaLink="false">bf554279-dbd9-43f2-a4e5-88bd837a5147</guid>
+            <pubDate>Wed, 13 Jul 2016 18:29:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
