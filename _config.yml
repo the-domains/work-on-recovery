@@ -1,14 +1,14 @@
-layout_spectrum: 0.21258221520110965
-typography_spectrum: 0.89190439786762
+layout_spectrum: 0.38458547880873084
+typography_spectrum: 0.7913561735767871
 color:
-  brandStrength: 0.86184828937985
-  lightness: 0.3454122440889478
-  saturation: 0.7621409222483635
-  rhythmicContrast: 0.3122194504830986
+  brandStrength: 0.10833664401434362
+  lightness: 0.15406537801027298
+  saturation: 0.6006094429176301
+  rhythmicContrast: 0.8819488873705268
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Work on Recovery
