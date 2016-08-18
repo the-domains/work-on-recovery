@@ -16,3 +16,6 @@ navigation:
   - name: About
     id: a90b5fa3-4e98-42dc-8e5f-d15508a50289
     type: content
+  - name: Contact
+    id: dae7aa7a-2f81-40f5-984f-514726630fa3
+    type: content
