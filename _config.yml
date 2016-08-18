@@ -12,3 +12,7 @@ color:
     - '#85A5CC'
     - '#D0E4F2'
 name: Work on Recovery
+navigation:
+  - name: About
+    id: a90b5fa3-4e98-42dc-8e5f-d15508a50289
+    type: content
